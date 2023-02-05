@@ -1,0 +1,23 @@
+[33mcommit 5230a3a93ac26c6b6f3f87075f23e22204d6a6fb[m[33m ([m[1;36mHEAD -> [m[1;32mrebasebranch[m[33m)[m
+Author: Sudesh <sachinkanth16@gmail.com>
+Date:   Sun Feb 5 11:16:47 2023 +0400
+
+    DM added in rebase branch
+
+[33mcommit 279b9f94009a9c235fa50fc1f26a8ba7c1212a6e[m[33m ([m[1;32mmaster[m[33m, [m[1;32mdevelopment[m[33m)[m
+Author: Sudesh <sachinkanth16@gmail.com>
+Date:   Sun Feb 5 11:09:04 2023 +0400
+
+    Host Config File Added in branch
+
+[33mcommit d3c870fd42d0638339e62d21196c87114017fcc3[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Sudesh <sachinkanth16@gmail.com>
+Date:   Sun Feb 5 10:43:07 2023 +0400
+
+    File Modified
+
+[33mcommit 9e50aabcb94c03fe370466ec48b6269ef076b3e6[m
+Author: Sudesh <sachinkanth16@gmail.com>
+Date:   Sun Feb 5 10:39:58 2023 +0400
+
+    First File added
